@@ -5,6 +5,25 @@
     <link>/categories/</link>
     <description>Recent content in Categories on yab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 22:21:07 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hosting</title>
+      <link>/categories/hosting/</link>
+      <pubDate>Wed, 28 Jun 2023 22:21:07 +0600</pubDate>
+      
+      <guid>/categories/hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/categories/linux/</link>
+      <pubDate>Wed, 28 Jun 2023 22:21:07 +0600</pubDate>
+      
+      <guid>/categories/linux/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

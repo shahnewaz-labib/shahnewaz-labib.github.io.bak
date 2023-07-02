@@ -13,7 +13,7 @@
       <pubDate>Wed, 28 Jun 2023 22:21:07 +0600</pubDate>
       
       <guid>/posts/host-website-from-own-machine/</guid>
-      <description>Introduction I&amp;rsquo;ve been using real ip for a while and wanted to host a website from my ip address. It was really quick and easy.
+      <description>Introduction I&amp;rsquo;ve been using real ip for a while now and wanted to host a website from my ip address. It was easy and here&amp;rsquo;s how I did it.
 Steps Setup nginx Install and enable nginx:
 sudo pacman -S nginx sudo systemctl enable nginx sudo systemctl start --now nginx Get IP Address Run this to get the ip address of your device on your local network.
 ip addr show INTERFACE_NAME | grep inet | awk &amp;#39;{ print $2; }&amp;#39; | sed &amp;#39;s/\/.</description>

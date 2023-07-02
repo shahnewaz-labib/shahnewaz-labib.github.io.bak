@@ -2,19 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
+  </url><url>
     <loc>/posts/host-website-from-own-machine/</loc>
     <lastmod>2023-06-28T22:21:07+06:00</lastmod>
   </url><url>
+    <loc>/tags/hosting/</loc>
+    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
+  </url><url>
+    <loc>/categories/hosting/</loc>
+    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
+  </url><url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
+  </url><url>
+    <loc>/categories/linux/</loc>
+    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
+  </url><url>
+    <loc>/tags/nginx/</loc>
+    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
+  </url><url>
     <loc>/posts/</loc>
+    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2023-06-28T22:21:07+06:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2023-06-28T22:21:07+06:00</lastmod>
   </url><url>
     <loc>/archives/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>

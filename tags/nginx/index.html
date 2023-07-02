@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Tags | yab</title>
+<title>nginx | yab</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="canonical" href="/tags/">
+<link rel="canonical" href="/tags/nginx/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.3613efbd0b1772781e8f49935e973cae632a7f61471c05b17be155505ccf87b5.css" integrity="sha256-NhPvvQsXcngej0mTXpc8rmMqf2FHHAWxe&#43;FVUFzPh7U=" rel="preload stylesheet" as="style">
 <link rel="icon" href="favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -18,7 +18,7 @@
 <link rel="mask-icon" href="safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="/tags/index.xml">
+<link rel="alternate" type="application/rss+xml" href="/tags/nginx/index.xml">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,13 +55,13 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Tags" />
+</noscript><meta property="og:title" content="nginx" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/tags/" />
+<meta property="og:url" content="/tags/nginx/" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Tags"/>
+<meta name="twitter:title" content="nginx"/>
 <meta name="twitter:description" content=""/>
 
 </head>
@@ -118,28 +118,33 @@
             </li>
             <li>
                 <a href="/tags/" title="Tags">
-                    <span class="active">Tags</span>
+                    <span>Tags</span>
                 </a>
             </li>
         </ul>
     </nav>
 </header>
-<main class="main">
-<header class="page-header">
-    <h1>Tags</h1>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="">Home</a>&nbsp;»&nbsp;<a href="/tags/">Tags</a></div>
+  <h1>
+    nginx
+  </h1>
 </header>
 
-<ul class="terms-tags">
-    <li>
-        <a href="/tags/hosting/">hosting <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="/tags/linux/">linux <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="/tags/nginx/">nginx <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-</ul>
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2>Host Website From Own Machine
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Introduction I’ve been using real ip for a while now and wanted to host a website from my ip address. It was easy and here’s how I did it.
+Steps Setup nginx Install and enable nginx:
+sudo pacman -S nginx sudo systemctl enable nginx sudo systemctl start --now nginx Get IP Address Run this to get the ip address of your device on your local network.
+ip addr show INTERFACE_NAME | grep inet | awk &#39;{ print $2; }&#39; | sed &#39;s/\/....</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-28 22:21:07 +0600 +06'>June 28, 2023</span>&nbsp;·&nbsp;2 min</footer>
+  <a class="entry-link" aria-label="post link to Host Website From Own Machine" href="/posts/host-website-from-own-machine/"></a>
+</article>
     </main>
     
 <footer class="footer">

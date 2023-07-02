@@ -5,6 +5,34 @@
     <link>/tags/</link>
     <description>Recent content in Tags on yab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 22:21:07 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hosting</title>
+      <link>/tags/hosting/</link>
+      <pubDate>Wed, 28 Jun 2023 22:21:07 +0600</pubDate>
+      
+      <guid>/tags/hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Wed, 28 Jun 2023 22:21:07 +0600</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>/tags/nginx/</link>
+      <pubDate>Wed, 28 Jun 2023 22:21:07 +0600</pubDate>
+      
+      <guid>/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
