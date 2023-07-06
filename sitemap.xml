@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shahnewaz-labib.github.io/posts/managing-dotfiles/</loc>
+    <lastmod>2023-07-06T22:08:47+06:00</lastmod>
+  </url><url>
+    <loc>https://shahnewaz-labib.github.io/posts/</loc>
+    <lastmod>2023-07-06T22:08:47+06:00</lastmod>
+  </url><url>
+    <loc>https://shahnewaz-labib.github.io/</loc>
+    <lastmod>2023-07-06T22:08:47+06:00</lastmod>
+  </url><url>
     <loc>https://shahnewaz-labib.github.io/categories/</loc>
     <lastmod>2023-06-28T22:21:07+06:00</lastmod>
   </url><url>
@@ -23,13 +32,7 @@
     <loc>https://shahnewaz-labib.github.io/tags/nginx/</loc>
     <lastmod>2023-06-28T22:21:07+06:00</lastmod>
   </url><url>
-    <loc>https://shahnewaz-labib.github.io/posts/</loc>
-    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
-  </url><url>
     <loc>https://shahnewaz-labib.github.io/tags/</loc>
-    <lastmod>2023-06-28T22:21:07+06:00</lastmod>
-  </url><url>
-    <loc>https://shahnewaz-labib.github.io/</loc>
     <lastmod>2023-06-28T22:21:07+06:00</lastmod>
   </url><url>
     <loc>https://shahnewaz-labib.github.io/archives/</loc>
