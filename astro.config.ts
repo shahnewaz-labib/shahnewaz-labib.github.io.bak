@@ -8,7 +8,8 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: SITE.website,
+  site: 'https://shahnewaz-labib.github.io',
+  // base: '/shahnewaz-labib.github.io'
   integrations: [
     tailwind({
       applyBaseStyles: false,
