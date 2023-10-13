@@ -217,6 +217,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"first-post.md": {
+	id: "first-post.md";
+  slug: "first-post";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "how-to-add-an-estimated-reading-time.md": {
 	id: "how-to-add-an-estimated-reading-time.md";
   slug: "how-to-add-an-estimated-reading-time";
